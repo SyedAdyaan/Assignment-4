@@ -1,0 +1,477 @@
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+    min-width: 300px;
+
+  }
+  header{
+      background-color: gray;
+      opacity: 0.9;
+      border-bottom: orangered solid 3px;
+      border-top: orangered solid 3px;
+}
+  body{
+      margin: 0;
+      padding: 0;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #logoimg{
+      height: 120px;
+      width: 120px;
+      margin-left: auto;
+      border-radius: 50px;
+      position: relative;
+      top: 3px;
+      
+  }
+  .school_name{
+      letter-spacing: 0.1em;
+      display: inline-block;
+      margin-left: 15px;
+      position: relative;
+      bottom: 15px;
+      
+      
+  }
+  #sccc{
+      margin: 0;
+      color: whitesmoke;
+      
+  }
+  header a{
+    color:#ffffff;
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size:18px;
+  }
+  header li{
+    float: right;
+    display: inline-block;
+    padding: 0 20px 0 20px;
+  }
+  header nav{
+      float: right;
+      margin-top: 45px;
+  }
+  header .home a{
+    color:orangered;
+    font-weight:bold;
+  }
+  header a:hover{
+      color: darkgray;
+      font-weight: bold;
+  }
+  #children{
+    min-height:500px;
+    text-align:center;
+    color: whitesmoke;
+    width: 100%;
+  }
+  #children{
+      height: 400px;
+      width: 100%;
+  }
+  #children{
+    min-width: 100%;
+    min-height: 600px ;
+  }
+  .div1{
+    background-color: gray;
+    margin-top: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  #steps{
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .main{
+    background-color:rgb(240, 225, 140);
+    box-shadow: gainsboro 10px 10px 10px 10px;
+    margin-left: 100px;
+    font-family: cursive;
+    width: 320px;
+    height: 250px;
+    color: orangered;
+    display: inline-block;
+    margin-top: 20px;
+    
+  
+}
+#youth{
+  text-align: center;
+  position: relative;
+  top: 90px; 
+}
+#div1st{
+  margin-top: -20px;
+  float: left;
+}
+
+#div2nd{
+  margin-left: 450px;
+  margin-top: -110px;
+  float: left;
+}
+#career{
+  text-align: center;
+  position: relative;
+  top: 70px;
+}
+#div3rd{
+  display: inline-block;
+  margin-left: 920px;
+  position: relative;
+  top: -265px;
+}
+#values{
+  text-align: center;
+  position: relative;
+  top: 70px;
+}
+.main2{
+    background-color: rgb(240, 225, 140);
+    box-shadow: gainsboro 10px 10px 10px 10px;
+    margin-left: 100px;
+    font-family: cursive;
+    width: 320px;
+    height: 250px;
+    color: orangered;
+    margin-top: -130px;
+    text-align: center;
+  }
+#english{
+  position: relative;
+  top: 75px;
+}
+#personal{
+  position: relative;
+  top: 68px;
+}
+#div5th{
+  position: relative;
+  left: 350px;
+  margin-top: -150px;
+}
+#div6th{
+  display: inline-block;
+  position: relative;
+  left: 821px;
+  top: -165px;
+}
+#counsel{
+  position: relative;
+  top: 45px;
+}
+#citizens{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-shadow: orangered;
+  margin-top: 70px;
+  color: orangered;
+  position: relative;
+  top: 60px;
+}
+.para1{
+  font-size: 30px;
+  word-spacing: 0.2em;
+  font-style: italic;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  position: relative;
+}
+#paradiv{
+  min-width: 50%;
+  background-color: darkgray;
+  color: white;
+  width: 200px;
+  display: inline-block;
+  margin: 0 0 0 5px ;
+}
+#schoolkids{
+  display: inline-block;
+  margin-left: 100px;
+}
+#aboutpara{
+  font-size: 20px;
+  float: left;
+  font-family: cursive;
+  color: #ffffff;
+}
+#aboutpara2{
+  font-size: 20px;
+  float: left;
+  font-family: cursive;
+  color: #ffffff;
+  background-color: lightslategrey;
+  margin-top: 20px;
+}
+#abpardiv1{
+  width: 700px;
+  height: 180px;
+  background-color: lightslategrey;
+  margin-top: 30px;
+}
+#labimg{
+  float: right;
+  position: relative;
+  top: -200px;
+}
+#abpardiv2{
+  width: 700px;
+  height: 900px;
+  background-color: lightslategrey;
+  margin-bottom: 100px;
+}
+.table1{
+  margin-left: 60px;
+  border: none;
+  overflow: hidden;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  top: -70px;
+}
+#table_head{
+  text-align: center;
+  font-family: cursive;
+  color: orange;
+}
+th{
+  padding: 110px;
+  
+}
+#build_img{
+  height: 100px;
+  width: 100px;
+}
+#purpose{
+  position: relative;
+  top: -230px;
+  font-size: 20px;
+}
+#descript{
+  position: relative;
+  top: -420px;
+  font-size: 17px;
+  font-family: cursive;
+}
+#lap_img{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: -450px;
+}
+#comp{
+  color: orangered;
+  font-size: 20px;
+  position: relative;
+  top: -650px;
+}
+#state{
+  position: relative;
+  top: -860px;
+  font-size: 17px;
+  font-family: cursive; 
+}
+footer{
+  padding:20px;
+  margin-top: 20px;
+  color:#ffffff;
+  background-color:orangered;
+  text-align: center;
+  
+}
+#chairperson{
+  font-family: cursive;
+  color: navy;
+}
+#message{
+  font-size: 30px;
+}
+.messagediv{
+  float: left;
+  width: 50%;
+  height: 500px;
+}
+#campusimg{
+  display: inline-block;
+  width: 700px;
+  height: 600px;
+  position: relative;
+  left: 70px;
+}
+.divtable2{
+  width: 100%;
+  height: 200px;
+  background-color: lightgray;
+  position: relative;
+  top: -850px;
+}
+.tr1{
+  color: slateblue;
+  font-size: 18px;
+}
+#heading{
+  position: relative;
+  top: -250px;
+  font-size: 18px;
+  color: rgb(114, 106, 106);
+  font-family: serif;
+  font-style: bold;
+}
+#heading2{
+  position: relative;
+  top: -90px;
+  font-family: serif;
+}
+#portalhead{
+  background-color: lightgray;
+  color: orangered;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+a{
+  color:orangered;
+  text-decoration:none;
+  text-transform: uppercase;
+  font-size:15px;
+}
+li{
+  float: right;
+  display: inline-block;
+  padding: 0 20px 0 20px;
+}
+nav{
+  float: right;
+  margin-top: -45px;
+}
+a:hover{
+  color: grey;
+  font-weight: bold;
+}
+#ptm{
+  height: 470px;
+  width: 700px;
+  margin-top: 10px;
+  position: relative;
+  left: 20px;
+  border-radius: 50px;
+  top: -70px;
+  
+}
+#he1para{
+  float: left;
+  font-size: 20px;
+  font-family: cursive;
+}
+#he1{
+  color: gray;
+  
+}
+#academics{
+  height: 470px;
+  width: 700px;
+  margin-top: 10px;
+  position: relative;
+  left: 810px;
+  border-radius: 50px;
+  top: -70px;
+}
+#he2para{
+  float: left;
+  font-size: 20px;
+  font-family: cursive;
+  position: relative;
+  top: -550px;
+}
+#he2{
+  color: gray;
+  position: relative;
+  top: -550px;
+}
+.adfooter{
+  max-height: 80px;
+  position: relative;
+  top: 450px;
+  overflow: hidden;
+}
+#onlinepara{
+  font-size: 20px;
+  font-family: cursive;
+  text-align: center;
+  color: gray;
+}
+.form1{
+  margin-left: 30px;
+  color: rgb(138, 134, 134);
+  margin-top: 100px;
+}
+#yname{
+  height: 30px;
+  font-size: 15px;
+  margin-left: 60px;
+}
+#email{
+  height: 30px;
+  font-size: 15px;
+  margin-left: 33px;
+}
+#gend{
+  margin-left: 80px;
+  
+}
+input:focus{
+  color: gray;
+}
+input:hover{
+background-color: lightgray;
+opacity: 0.8;
+}
+#number{
+  height: 30px;
+  font-size: 15px;
+  margin-left: 25px;
+}
+#city{
+  height: 30px;
+  font-size: 15px;
+  margin-left: 30px;
+}
+#campus{
+  height: 30px;
+  font-size: 15px;
+  margin-left: 2px;
+}
+#submitbutt{
+  height: 50px;
+  width: 90px;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  font-family: sans-serif;
+  vertical-align: middle;
+  color: orangered;
+}
+button:hover{
+  color: gray;
+}
+button{
+  margin: 30px;
+}
+@media(max-width: 768px){
+  header li, header nav {
+    float: none;
+    display: inline;
+  }
+  #logoimg{
+    height: 100px;
+  }
+  .school_name{
+    margin-top: 20px;
+  }
+}

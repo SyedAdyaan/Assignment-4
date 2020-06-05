@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="design.css">
+</head>
+<body>
+    <header>
+        
+        <div class="container">
+                <img id="logoimg" src="images/logo/logo.jpg" alt="Classroom image">
+            <div class="school_name">    
+                <h2 id="sccc">"Welcome To The <br>Official Website <br> of Evergreen's"</h2>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="about.html">ABOUT US</a></li>
+                    <li><a href="portal.html">ADMISSIONS</a> </li>
+                    <li class="home"> <a href="index.html">HOME</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <h1 id="portalhead">ONLINE STUDENT REGISTERATION</h1>
+    <nav>
+        <ul>
+            <li><a href="login.html">Online Registeration</a></li>
+            <li> <a href="portal.html">Admission Query</a> </li>
+            
+        </ul>
+    </nav>
+    <p id="onlinepara">Register your child with us at The Evergreens branch nearby you. To enroll your child at The Evergreens, <br> kindly fill in the required information on this page, select the Province, City and campus. Fill in all  additional <br> details regarding Student Name, Parents/guardians on the form in order to complete the registration process.</p>
+
+    <form action="" class="form1">
+      <p> YOUR NAME :<input type="text" aria-required="true" id="yname" size="25" maxlength="30" placeholder="Enter your name" >(max 30 characters a-z and A-Z) </p>
+     <p>  LAST NAME  : <input type="text" aria-required="true" id="yname" size="25" maxlength="30" placeholder="Enter Father's name"> (max 30 characters a-z and A-Z) </p>
+    <p>GENDER   : <input type="radio"  value="male" id="gend" name="gender"> Male  <input type="radio" value="female" name="gender"> Female </p>
+    <p>EMAIL ADDRESS : <input type="email" aria-required="true" id="email" maxlength="30" size="25" placeholder="Enter your email address"></p>
+    <p>MOBILE NUMBER : <input type="number" id="number" aria-required="true" maxlength="11" size="25" placeholder="Enter mobile number"> (11 digit number) </p>
+    <p>Select your city : <select id="city" name="cities">  <option value="Karachi">Karachi</option>    <option value="Lahore">Lahore</option>    <option value="Islamabad">Islamabad</option>  </select> </p>
+    <p>Select your campus : <select id="campus" name="cities">  <option value="Karachicamp">Karachi Campus</option>    <option value="Lahorecamp">Lahore Campus</option>    <option value="Islamabadcamp">Islamabad Campus</option>  </select> </p>
+    <p><input type="submit" value="Submit" id="submitbutt"> <input type="reset" value="Reset" id="submitbutt"> </p>
+
+</form>
+
+    <footer>
+        <p>The Evergreens Educational System, Copyright &copy; 2015</p>
+    </footer>
